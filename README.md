@@ -1,4 +1,4 @@
 TP Infras Open Source
 Rahimatou Iniek TAPSOBA
-Memoire: 5.7 GB
-Capacité du Disque: 21.5 GB
+Memoire: 10 GB
+Capacité du Disque: 64,6 GB
